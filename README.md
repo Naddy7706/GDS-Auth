@@ -1,2 +1,2 @@
-# Galam-auth
+# GDS Auth Tool
 Pdf Signing
